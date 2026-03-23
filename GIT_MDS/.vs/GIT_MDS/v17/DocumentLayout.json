@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\witch\\Documents\\UNIVALLE\\Ingenieria\\Metodologias dd Desarrollo de Software\\GIT_MDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5F2DF-9CAD-4E81-99B2-988898811BC3}|GIT_MDS.csproj|d:\\witch\\documents\\univalle\\ingenieria\\metodologias dd desarrollo de software\\git_mds\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEA5F2DF-9CAD-4E81-99B2-988898811BC3}|GIT_MDS.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA5F2DF-9CAD-4E81-99B2-988898811BC3}|GIT_MDS.csproj|d:\\witch\\documents\\univalle\\ingenieria\\metodologias dd desarrollo de software\\git_mds\\git_mds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEA5F2DF-9CAD-4E81-99B2-988898811BC3}|GIT_MDS.csproj|solutionrelative:git_mds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "D:\\witch\\Documents\\UNIVALLE\\Ingenieria\\Metodologias dd Desarrollo de Software\\GIT_MDS\\Index.html",
+              "RelativeDocumentMoniker": "Index.html",
+              "ToolTip": "D:\\witch\\Documents\\UNIVALLE\\Ingenieria\\Metodologias dd Desarrollo de Software\\GIT_MDS\\Index.html",
+              "RelativeToolTip": "Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-23T20:06:29.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GIT_MDS",
+              "DocumentMoniker": "D:\\witch\\Documents\\UNIVALLE\\Ingenieria\\Metodologias dd Desarrollo de Software\\GIT_MDS\\GIT_MDS.csproj",
+              "RelativeDocumentMoniker": "GIT_MDS.csproj",
+              "ToolTip": "D:\\witch\\Documents\\UNIVALLE\\Ingenieria\\Metodologias dd Desarrollo de Software\\GIT_MDS\\GIT_MDS.csproj",
+              "RelativeToolTip": "GIT_MDS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T20:06:27.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
